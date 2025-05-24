@@ -13,10 +13,7 @@ To write a Python program using **NumPy** that finds the indices where elements 
 5. **Print Indices**: Print the indices where the condition holds true.
 
 ## 🧾 Program
-```
-Developed by: Preethi J
-Register no: 212223220080
-```
+
 ```
 import numpy as np
 x=eval(input())

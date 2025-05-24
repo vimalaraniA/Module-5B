@@ -17,10 +17,7 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 ---
 
 ## 💻 Program
-```
-Developed by: Preethi J
-Register no: 212223220080
-```
+
 
 ```
 import pandas as pd import numpy as np exam_data  = {'name': ['Anastasia', 'Dima', 'Katherine', 'James', 'Emily', 'Michael', 'Matthew', 'Laura', 'Kevin', 'Jonas'], 
